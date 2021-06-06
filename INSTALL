@@ -1,0 +1,6 @@
+
+INSTALL memo for "App::venn" : 
+
+   cpanm --save-dist App::venn
+
+   
