@@ -1,6 +1,6 @@
 package App::venn ;  
-our $VERSION = '0.100' ; 
-our $DATE = '2021-06-06T13:03+09:00' ; 
+our $VERSION = '0.101' ; 
+our $DATE = '2021-06-06T13:33+09:00' ; 
 
 =encoding utf8
 
